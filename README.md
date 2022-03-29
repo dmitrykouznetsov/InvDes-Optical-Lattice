@@ -24,4 +24,16 @@ The source code used to generate the optical lattices in the paper are in the ju
 
 ## Credits
 
-> To be added
+If you use this for your research or work, please cite
+
+    @article{kouznetsov2022invdes,
+      title = {Inverse design assisted coherent optical lattices},
+      author = {Dmitry Kouznetsov and Ongun Arisev and Pol Van Dorpe and Niels Verellen},
+      journal = {Opt. Express},
+      number = {7},
+      pages = {11384--11393},
+      publisher = {OSA},
+      volume = {30},
+      url = {http://opg.optica.org/oe/abstract.cfm?URI=oe-30-7-11384},
+      doi = {10.1364/OE.455466}
+    }
